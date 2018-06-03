@@ -1732,27 +1732,50 @@ tt0109830,studio,Paramount Pictures
 tt0109830,writer,Eric Roth
 tt0109830,writer,Winston Groom
 tt0110912,actor,Amanda Plummer
+tt0110912,actor,Amanda Plummer
+tt0110912,actor,Bronagh Gallagher
 tt0110912,actor,Bronagh Gallagher
 tt0110912,actor,Bruce Willis
+tt0110912,actor,Bruce Willis
+tt0110912,actor,Burr Steers
 tt0110912,actor,Burr Steers
 tt0110912,actor,Eric Stoltz
+tt0110912,actor,Eric Stoltz
+tt0110912,actor,Frank Whaley
 tt0110912,actor,Frank Whaley
 tt0110912,actor,John Travolta
+tt0110912,actor,John Travolta
+tt0110912,actor,Laura Lovelace
 tt0110912,actor,Laura Lovelace
 tt0110912,actor,Paul Calderon
+tt0110912,actor,Paul Calderon
+tt0110912,actor,Phil LaMarr
 tt0110912,actor,Phil LaMarr
 tt0110912,actor,Rosanna Arquette
+tt0110912,actor,Rosanna Arquette
+tt0110912,actor,Samuel L. Jackson
 tt0110912,actor,Samuel L. Jackson
 tt0110912,actor,Tim Roth
+tt0110912,actor,Tim Roth
+tt0110912,actor,Uma Thurman
 tt0110912,actor,Uma Thurman
 tt0110912,actor,Ving Rhames
+tt0110912,actor,Ving Rhames
+tt0110912,director,Quentin Tarantino
 tt0110912,director,Quentin Tarantino
 tt0110912,genre,Crime
+tt0110912,genre,Crime
+tt0110912,genre,Drama
 tt0110912,genre,Drama
 tt0110912,studio,A Band Apart
+tt0110912,studio,A Band Apart
+tt0110912,studio,Jersey Films
 tt0110912,studio,Jersey Films
 tt0110912,studio,Miramax
+tt0110912,studio,Miramax
 tt0110912,writer,Quentin Tarantino
+tt0110912,writer,Quentin Tarantino
+tt0110912,writer,Roger Avary
 tt0110912,writer,Roger Avary
 tt0111161,actor,Bob Gunton
 tt0111161,actor,Brian Libby
@@ -1914,28 +1937,52 @@ tt0113277,studio,Regency Enterprises
 tt0113277,studio,Warner Bros.
 tt0113277,writer,Michael Mann
 tt0114369,actor,Andrew Kevin Walker
+tt0114369,actor,Andrew Kevin Walker
+tt0114369,actor,Bob Mack
 tt0114369,actor,Bob Mack
 tt0114369,actor,Brad Pitt
+tt0114369,actor,Brad Pitt
+tt0114369,actor,Daniel Zacapa
 tt0114369,actor,Daniel Zacapa
 tt0114369,actor,Endre Hules
+tt0114369,actor,Endre Hules
+tt0114369,actor,George Christy
 tt0114369,actor,George Christy
 tt0114369,actor,Gwyneth Paltrow
+tt0114369,actor,Gwyneth Paltrow
+tt0114369,actor,Hawthorne James
 tt0114369,actor,Hawthorne James
 tt0114369,actor,John Cassini
+tt0114369,actor,John Cassini
+tt0114369,actor,Kevin Spacey
 tt0114369,actor,Kevin Spacey
 tt0114369,actor,Morgan Freeman
+tt0114369,actor,Morgan Freeman
+tt0114369,actor,Peter Crombie
 tt0114369,actor,Peter Crombie
 tt0114369,actor,R. Lee Ermey
+tt0114369,actor,R. Lee Ermey
+tt0114369,actor,Reg E. Cathey
 tt0114369,actor,Reg E. Cathey
 tt0114369,actor,William Davidson
+tt0114369,actor,William Davidson
+tt0114369,director,David Fincher
 tt0114369,director,David Fincher
 tt0114369,genre,Crime
+tt0114369,genre,Crime
+tt0114369,genre,Drama
 tt0114369,genre,Drama
 tt0114369,genre,Mystery
+tt0114369,genre,Mystery
+tt0114369,genre,Thriller
 tt0114369,genre,Thriller
 tt0114369,studio,Cecchi Gori Pictures
+tt0114369,studio,Cecchi Gori Pictures
+tt0114369,studio,Juno Pix
 tt0114369,studio,Juno Pix
 tt0114369,studio,New Line Cinema
+tt0114369,studio,New Line Cinema
+tt0114369,writer,Andrew Kevin Walker
 tt0114369,writer,Andrew Kevin Walker
 tt0114709,actor,Annie Potts
 tt0114709,actor,Don Rickles
@@ -2161,7 +2208,6 @@ tt0119654,actor,Will Smith
 tt0119654,director,Barry Sonnenfeld
 tt0119654,genre,Adventure
 tt0119654,genre,Comedy
-tt0119654,genre,Family
 tt0119654,genre,Mystery
 tt0119654,genre,Sci-Fi
 tt0119654,studio,Amblin Entertainment
@@ -2481,7 +2527,6 @@ tt0120912,director,Barry Sonnenfeld
 tt0120912,genre,Action
 tt0120912,genre,Adventure
 tt0120912,genre,Comedy
-tt0120912,genre,Family
 tt0120912,genre,Mystery
 tt0120912,genre,Sci-Fi
 tt0120912,studio,Amblin Entertainment
@@ -5425,6 +5470,31 @@ tt0407887,studio,Plan B Entertainment
 tt0407887,studio,Warner Bros.
 tt0407887,writer,Alan Mak
 tt0407887,writer,William Monahan
+tt0409459,actor,Billy Crudup
+tt0409459,actor,Carla Gugino
+tt0409459,actor,Gary Houston
+tt0409459,actor,Jackie Earle Haley
+tt0409459,actor,James M. Connor
+tt0409459,actor,Jeffrey Dean Morgan
+tt0409459,actor,John Shaw
+tt0409459,actor,Laura Mennell
+tt0409459,actor,Malin Akerman
+tt0409459,actor,Mary Ann Burger
+tt0409459,actor,Matt Frewer
+tt0409459,actor,Matthew Goode
+tt0409459,actor,Patrick Wilson
+tt0409459,actor,Rob LaBelle
+tt0409459,actor,Stephen McHattie
+tt0409459,director,Zack Snyder
+tt0409459,genre,Action
+tt0409459,genre,Drama
+tt0409459,genre,Mystery
+tt0409459,genre,Sci-Fi
+tt0409459,studio,Legendary Entertainment
+tt0409459,studio,Paramount Pictures
+tt0409459,studio,Warner Bros.
+tt0409459,writer,Alex Tse
+tt0409459,writer,David Hayter
 tt0409847,actor,Abigail Spencer
 tt0409847,actor,Adam Beach
 tt0409847,actor,Ana de la Reguera
@@ -5835,6 +5905,18 @@ tt0441773,studio,DreamWorks Animation
 tt0441773,studio,Pacific Data Images
 tt0441773,writer,Glenn Berger
 tt0441773,writer,Jonathan Aibel
+tt0443453,actor,Charlie
+tt0443453,actor,Chester
+tt0443453,actor,Ken Davitian
+tt0443453,actor,Luenell
+tt0443453,actor,Sacha Baron Cohen
+tt0443453,director,Larry Charles
+tt0443453,genre,Comedy
+tt0443453,studio,Dune Entertainment
+tt0443453,studio,Everyman Pictures
+tt0443453,studio,Four by Two
+tt0443453,writer,Anthony Hines
+tt0443453,writer,Sacha Baron Cohen
 tt0446029,actor,Alison Pill
 tt0446029,actor,Anna Kendrick
 tt0446029,actor,Aubrey Plaza
@@ -5885,29 +5967,54 @@ tt0446059,studio,China Film Group
 tt0446059,writer,Chris Chow
 tt0446059,writer,Richard Epcar
 tt0448011,actor,Adrienne Pickering
+tt0448011,actor,Adrienne Pickering
+tt0448011,actor,Alan Hopgood
 tt0448011,actor,Alan Hopgood
 tt0448011,actor,Alethea McGrath
+tt0448011,actor,Alethea McGrath
+tt0448011,actor,Ben Mendelsohn
 tt0448011,actor,Ben Mendelsohn
 tt0448011,actor,Chandler Canterbury
+tt0448011,actor,Chandler Canterbury
+tt0448011,actor,D.G. Maloney
 tt0448011,actor,D.G. Maloney
 tt0448011,actor,Danielle Carter
+tt0448011,actor,Danielle Carter
+tt0448011,actor,David Lennie
 tt0448011,actor,David Lennie
 tt0448011,actor,Joshua Long
+tt0448011,actor,Joshua Long
+tt0448011,actor,Lara Robinson
 tt0448011,actor,Lara Robinson
 tt0448011,actor,Nadia Townsend
+tt0448011,actor,Nadia Townsend
+tt0448011,actor,Nicolas Cage
 tt0448011,actor,Nicolas Cage
 tt0448011,actor,Rose Byrne
+tt0448011,actor,Rose Byrne
+tt0448011,actor,Tamara Donnellan
 tt0448011,actor,Tamara Donnellan
 tt0448011,actor,Travis Waite
+tt0448011,actor,Travis Waite
+tt0448011,director,Alex Proyas
 tt0448011,director,Alex Proyas
 tt0448011,genre,Drama
+tt0448011,genre,Drama
+tt0448011,genre,Mystery
 tt0448011,genre,Mystery
 tt0448011,genre,Sci-Fi
+tt0448011,genre,Sci-Fi
+tt0448011,genre,Thriller
 tt0448011,genre,Thriller
 tt0448011,studio,Escape Artists
+tt0448011,studio,Escape Artists
+tt0448011,studio,Mystery Clock Cinema
 tt0448011,studio,Mystery Clock Cinema
 tt0448011,studio,Summit Entertainment
+tt0448011,studio,Summit Entertainment
 tt0448011,writer,Juliet Snowden
+tt0448011,writer,Juliet Snowden
+tt0448011,writer,Ryne Douglas Pearson
 tt0448011,writer,Ryne Douglas Pearson
 tt0449088,actor,Bill Nighy
 tt0449088,actor,David Bailie
@@ -6076,6 +6183,31 @@ tt0458352,studio,Fox 2000 Pictures
 tt0458352,studio,Major Studio Partners
 tt0458352,writer,Aline Brosh McKenna
 tt0458352,writer,Lauren Weisberger
+tt0458525,actor,Daniel Henney
+tt0458525,actor,Danny Huston
+tt0458525,actor,Dominic Monaghan
+tt0458525,actor,Hugh Jackman
+tt0458525,actor,Julia Blake
+tt0458525,actor,Kevin Durand
+tt0458525,actor,Liev Schreiber
+tt0458525,actor,Lynn Collins
+tt0458525,actor,Max Cullen
+tt0458525,actor,Michael-James Olsen
+tt0458525,actor,Ryan Reynolds
+tt0458525,actor,Taylor Kitsch
+tt0458525,actor,Tim Pocock
+tt0458525,actor,Troye Sivan
+tt0458525,actor,Will.i.am
+tt0458525,director,Gavin Hood
+tt0458525,genre,Action
+tt0458525,genre,Adventure
+tt0458525,genre,Sci-Fi
+tt0458525,genre,Thriller
+tt0458525,studio,Dune Entertainment
+tt0458525,studio,Marvel Enterprises
+tt0458525,studio,Twentieth Century Fox
+tt0458525,writer,David Benioff
+tt0458525,writer,Skip Woods
 tt0463985,actor,Amber Stevens West
 tt0463985,actor,Ashika Gogna
 tt0463985,actor,Brandon Brendel
@@ -6913,6 +7045,32 @@ tt0892769,studio,Mad Hatter Entertainment
 tt0892769,studio,Vertigo Entertainment
 tt0892769,writer,Dean DeBlois
 tt0892769,writer,William Davies
+tt0892782,actor,Amy Poehler
+tt0892782,actor,Ed Helms
+tt0892782,actor,Hugh Laurie
+tt0892782,actor,Jeffrey Tambor
+tt0892782,actor,John Krasinski
+tt0892782,actor,Julie White
+tt0892782,actor,Kiefer Sutherland
+tt0892782,actor,Paul Rudd
+tt0892782,actor,Rainn Wilson
+tt0892782,actor,Reese Witherspoon
+tt0892782,actor,Renée Zellweger
+tt0892782,actor,Sean Bishop
+tt0892782,actor,Seth Rogen
+tt0892782,actor,Stephen Colbert
+tt0892782,actor,Will Arnett
+tt0892782,director,Conrad Vernon
+tt0892782,director,Rob Letterman
+tt0892782,genre,Action
+tt0892782,genre,Adventure
+tt0892782,genre,Animation
+tt0892782,genre,Comedy
+tt0892782,genre,Family
+tt0892782,genre,Sci-Fi
+tt0892782,studio,DreamWorks Animation
+tt0892782,writer,Maya Forbes
+tt0892782,writer,Wallace Wolodarsky
 tt0903624,actor,Adam Brown
 tt0903624,actor,Graham McTavish
 tt0903624,actor,Ian McKellen
@@ -7149,6 +7307,32 @@ tt0974015,studio,Cruel & Unusual Films
 tt0974015,studio,DC Comics
 tt0974015,writer,Chris Terrio
 tt0974015,writer,Joss Whedon
+tt0988045,actor,Clive Russell
+tt0988045,actor,David Garrick
+tt0988045,actor,Eddie Marsan
+tt0988045,actor,Geraldine James
+tt0988045,actor,Hans Matheson
+tt0988045,actor,James Fox
+tt0988045,actor,Jude Law
+tt0988045,actor,Kelly Reilly
+tt0988045,actor,Mark Strong
+tt0988045,actor,Oran Gurel
+tt0988045,actor,Rachel McAdams
+tt0988045,actor,Robert Downey Jr.
+tt0988045,actor,Robert Maillet
+tt0988045,actor,William Hope
+tt0988045,actor,William Houston
+tt0988045,director,Guy Ritchie
+tt0988045,genre,Action
+tt0988045,genre,Adventure
+tt0988045,genre,Crime
+tt0988045,genre,Mystery
+tt0988045,genre,Thriller
+tt0988045,studio,Silver Pictures
+tt0988045,studio,Village Roadshow Pictures
+tt0988045,studio,Warner Bros.
+tt0988045,writer,Anthony Peckham
+tt0988045,writer,Michael Robert Johnson
 tt0993846,actor,Christine Ebersole
 tt0993846,actor,Cristin Milioti
 tt0993846,actor,Jean Dujardin
@@ -7368,6 +7552,50 @@ tt1037705,genre,Thriller
 tt1037705,studio,Alcon Entertainment
 tt1037705,studio,Silver Pictures
 tt1037705,writer,Gary Whitta
+tt1041829,actor,Aasif Mandvi
+tt1041829,actor,Alexis Garcia
+tt1041829,actor,Alicia Hunt
+tt1041829,actor,"Betty White, ""Denis OHare"", Malin Akerman"
+tt1041829,actor,Craig T. Nelson
+tt1041829,actor,Dale Place
+tt1041829,actor,Kortney Adams
+tt1041829,actor,Mary Steenburgen
+tt1041829,actor,Michael Mosley
+tt1041829,actor,Michael Nouri
+tt1041829,actor,Oscar Nuñez
+tt1041829,actor,Ryan Reynolds
+tt1041829,actor,Sandra Bullock
+tt1041829,director,Anne Fletcher
+tt1041829,genre,Comedy
+tt1041829,genre,Drama
+tt1041829,genre,Romance
+tt1041829,studio,K/O Paper Products
+tt1041829,studio,Mandeville Films
+tt1041829,studio,Touchstone Pictures
+tt1041829,writer,Peter Chiarelli
+tt1046173,actor,Adewale Akinnuoye-Agbaje
+tt1046173,actor,Byung-Hun Lee
+tt1046173,actor,Christopher Eccleston
+tt1046173,actor,David Murray
+tt1046173,actor,Dennis Quaid
+tt1046173,actor,Grégory Fitoussi
+tt1046173,actor,Jonathan Pryce
+tt1046173,actor,Joseph Gordon-Levitt
+tt1046173,actor,Karolina Kurkova
+tt1046173,actor,Leo Howard
+tt1046173,actor,"Rachel Nichols, ""Kevin J. OConnor"", Gerald Okamura"
+tt1046173,actor,Ray Park
+tt1046173,actor,Sienna Miller
+tt1046173,director,Stephen Sommers
+tt1046173,genre,Action
+tt1046173,genre,Adventure
+tt1046173,genre,Sci-Fi
+tt1046173,genre,Thriller
+tt1046173,studio,Hasbro
+tt1046173,studio,Paramount Pictures
+tt1046173,studio,Spyglass Entertainment
+tt1046173,writer,David Elliot
+tt1046173,writer,Stuart Beattie
 tt1049413,actor,Bob Peterson
 tt1049413,actor,Christopher Plummer
 tt1049413,actor,Danny Mann
@@ -7607,6 +7835,23 @@ tt1155076,studio,Overbrook Entertainment
 tt1155076,studio,Sony Pictures Releasing
 tt1155076,writer,Christopher Murphey
 tt1155076,writer,Robert Mark Kamen
+tt1156398,actor,Abigail Breslin
+tt1156398,actor,Amber Heard
+tt1156398,actor,Bill Murray
+tt1156398,actor,Derek Graf
+tt1156398,actor,Emma Stone
+tt1156398,actor,Jesse Eisenberg
+tt1156398,actor,Woody Harrelson
+tt1156398,director,Ruben Fleischer
+tt1156398,genre,Adventure
+tt1156398,genre,Comedy
+tt1156398,genre,Horror
+tt1156398,genre,Sci-Fi
+tt1156398,studio,Columbia Pictures
+tt1156398,studio,Pariah
+tt1156398,studio,Relativity Media
+tt1156398,writer,Paul Wernick
+tt1156398,writer,Rhett Reese
 tt1170358,actor,Adam Brown
 tt1170358,actor,Graham McTavish
 tt1170358,actor,Ian McKellen
@@ -8982,6 +9227,7 @@ tt1616195,director,Clint Eastwood
 tt1616195,genre,Biography
 tt1616195,genre,Crime
 tt1616195,genre,Drama
+tt1616195,genre,History
 tt1616195,genre,Romance
 tt1616195,studio,Imagine Entertainment
 tt1616195,studio,Malpaso Productions
