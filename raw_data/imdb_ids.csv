@@ -1,6 +1,7 @@
 Title,Release Year,imdb_id
 Throne of Blood,1957,tt0050613
 Inherit the Wind,1960,tt0053946
+Mary Poppins,1964,tt0058331
 Enter the Dragon,1973,tt0070034
 Jaws,1975,tt0073195
 Star Wars: Episode IV - A New Hope,1977,tt0076759
@@ -19,11 +20,13 @@ Rocky IV,1985,tt0089927
 Aliens,1986,tt0090605
 Top Gun,1986,tt0092099
 The Princess Bride,1987,tt0093779
+Big,1988,tt0094737
 Die Hard,1988,tt0095016
 Dead Poets Society,1989,tt0097165
 Glory,1989,tt0097441
 Hook,1991,tt0102057
 Terminator 2,1991,tt0103064
+Basic Instinct,1992,tt0103772
 Basic Instinct,1992,tt0103772
 Jurassic Park,1993,tt0107290
 Forrest Gump,1994,tt0109830
@@ -34,6 +37,7 @@ Waterworld,1995,tt0114898
 Independence Day,1996,tt0116629
 Mission: Impossible,1996,tt0117060
 4 Little Girls,1997,tt0118540
+Austin Powers: International Man of Mystery,1997,tt0118655
 Good Will Hunting,1997,tt0119217
 Men in Black,1997,tt0119654
 The Lost World: Jurassic Park,1997,tt0119567
@@ -45,6 +49,8 @@ Rush Hour,1998,tt0120812
 Saving Private Ryan,1998,tt0120815
 Small Soldiers,1998,tt0122718
 The Parent Trap,1998,tt0120783
+Who Am I?,1998,tt0127357
+Austin Powers: The Spy Who Shagged Me,1999,tt0145660
 Fight Club,1999,tt0137523
 October Sky,1999,tt0132477
 Star Wars: Episode I - The Phantom Menace,1999,tt0120915
@@ -78,6 +84,7 @@ The Fast and the Furious,2001,tt0232500
 The Lord of the Rings: The Fellowship of the Ring,2001,tt0120737
 Training Day,2001,tt0139654
 Zoolander,2001,tt0196229
+Austin Powers in Goldmember,2002,tt0295178
 Blade II,2002,tt0187738
 Die Another Day,2002,tt0246460
 Harry Potter and the Chamber of Secrets,2002,tt0295297
@@ -99,6 +106,7 @@ Hulk,2003,tt0286716
 Matrix Revolutions,2003,tt0242653
 Pirates of the Caribbean: The Curse of the Black Pearl,2003,tt0325980
 School of Rock,2003,tt0332379
+Shanghai Knights,2003,tt0300471
 Spy Kids 3: Game Over,2003,tt0338459
 Terminator 3: Rise of the Machines,2003,tt0181852
 The Italian Job,2003,tt0317740
@@ -106,9 +114,13 @@ The Last Samurai,2003,tt0325710
 The Lord of the Rings: The Return of the King,2003,tt0167260
 The Matrix Reloaded,2003,tt0234215
 X-Men 2,2003,tt0290334
+50 First Dates,2004,tt0343660
+Anchorman: The Legend of Ron Burgundy,2004,tt0357413
 Around the World in 80 Days,2004,tt0327437
+Aviator,2004,tt0338751
 Blade of Kings,2004,tt0398373
 Blade: Trinity,2004,tt0359013
+Dodgeball: A True Underdog Story,2004,tt0364725
 Fahrenheit 9/11,2004,tt0361596
 Harry Potter and the Prisoner of Azkaban,2004,tt0304141
 Hellboy,2004,tt0167190
@@ -173,9 +185,11 @@ Transformers,2007,tt0418279
 21,2008,tt0478087
 Death Race,2008,tt0452608
 Eagle Eye,2008,tt1059786
+Forgetting Sarah Marshall,2008,tt0800039
 Frost/Nixon,2008,tt0870111
 Hellboy II: The Golden Army,2008,tt0411477
 Ip Man,2008,tt1220719
+Iron Man,2008,tt0371746
 Jumper,2008,tt0489099
 Kung Fu Panda,2008,tt0441773
 Quantum of Solace,2008,tt0830515
@@ -190,7 +204,9 @@ The Mummy: Tomb of the Dragon Emperor,2008,tt0859163
 Tropic Thunder,2008,tt0942385
 WALL·E,2008,tt0910970
 Wanted,2008,tt0493464
+Yes Man,2008,tt1068680
 Avatar,2009,tt0499549
+Brüno,2009,tt0889583
 District 9,2009,tt1136608
 Fast & Furious,2009,tt1013752
 G.I. Joe: The Rise of Cobra,2009,tt1046173
@@ -213,6 +229,7 @@ Despicable Me,2010,tt1323594
 Get Him to the Greek,2010,tt1226229
 How to Train Your Dragon,2010,tt0892769
 Inception,2010,tt1375666
+Iron Man 2,2010,tt1228705
 Megamind,2010,tt1001526
 Repo Men,2010,tt1053424
 Salt,2010,tt0944835
@@ -245,6 +262,7 @@ Rise of the Planet of the Apes,2011,tt1318514
 Source Code,2011,tt0945513
 Super 8,2011,tt1650062
 The Three Musketeers,2011,tt1509767
+Thor,2011,tt0800369
 Transformers: Dark of the Moon,2011,tt1399103
 War Horse,2011,tt1568911
 Warrior,2011,tt1291584
@@ -264,6 +282,8 @@ The Man with the Iron Fists,2012,tt1258972
 Total Recall,2012,tt1386703
 Wreck-it Ralph,2012,tt1772341
 Fast & Furious 6,2013,tt1905041
+Iron Man 3,2013,tt1300854
+We're the Millers,2013,tt1723121
 Scott Pilgrim vs. the World,2010,tt0446029
 Daredevil,2003,tt0287978
 Dredd,2012,tt1343727
@@ -491,9 +511,23 @@ Dunkirk,2017,tt5013056
 Blade Runner 2049,2017,tt1856101
 Black Panther,2018,tt1825683
 The Fate of the Furious,2017,tt4630562
+Avengers: Infinity War,2018,tt4154756
 Trading Places,1983,tt0086465
 Spectral,2016,tt2106651
 Pacific Rim: Uprising,2018,tt2557478
 Apocalypse Now,1979,tt0078788
 Pulp Fiction,1994,tt0110912
 The Blind Side,2009,tt0878804
+The Big Short,2015,tt1596363
+Blades of Glory,2007,tt0445934
+The Good Dinosaur,2015,tt1979388
+So Young,2013,tt2765340
+Jurassic World: Fallen Kingdom,2018,tt4881806
+Never Say Die,2017,tt7431894
+Incredibles 2,2018,tt3606756
+Dazed and Confused,1993,tt0106677
+Coco,2017,tt2380307
+Ant-Man and the Wasp,2018,tt5095030
+House of Flying Daggers,2004,tt0385004
+Ferris Bueller's Day Off,1986,tt0091042
+Isle of Dogs,2018,tt5104604

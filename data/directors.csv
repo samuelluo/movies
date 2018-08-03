@@ -3,6 +3,7 @@ tt0033467,Citizen Kane,1941,Orson Welles
 tt0050613,Throne of Blood,1957,Akira Kurosawa
 tt0053946,Inherit the Wind,1960,Stanley Kramer
 tt0058150,Goldfinger,1964,Guy Hamilton
+tt0058331,Mary Poppins,1964,Robert Stevenson
 tt0062622,2001: A Space Odyssey,1968,Stanley Kubrick
 tt0066999,Dirty Harry,1971,Don Siegel
 tt0068646,The Godfather,1972,Francis Ford Coppola
@@ -43,6 +44,7 @@ tt0088847,The Breakfast Club,1985,John Hughes
 tt0088944,Commando,1985,Mark L. Lester
 tt0089927,Rocky IV,1985,Sylvester Stallone
 tt0090605,Aliens,1986,James Cameron
+tt0091042,Ferris Bueller's Day Off,1986,John Hughes
 tt0092099,Top Gun,1986,Tony Scott
 tt0092675,Bloodsport,1988,Newt Arnold
 tt0093105,"Good Morning, Vietnam",1987,Barry Levinson
@@ -52,6 +54,7 @@ tt0093779,The Princess Bride,1987,Rob Reiner
 tt0093894,The Running Man,1987,Paul Michael Glaser
 tt0094291,Wall Street,1987,Oliver Stone
 tt0094625,Akira,1988,Katsuhiro Ôtomo
+tt0094737,Big,1988,Penny Marshall
 tt0094898,Coming to America,1988,John Landis
 tt0095016,Die Hard,1988,John McTiernan
 tt0095953,Rain Man,1988,Barry Levinson
@@ -68,11 +71,13 @@ tt0101507,Boyz n the Hood,1991,John Singleton
 tt0102057,Hook,1991,Steven Spielberg
 tt0102526,New Jack City,1991,Mario Van Peebles
 tt0103064,Terminator 2,1991,James Cameron
-tt0103772,Basic Instinct,1992,Paul Verhoeven
+tt0103772,Basic Instinct,1992,Paul Verhoeven; Paul Verhoeven; Paul Verhoeven; Paul Verhoeven
+tt0103772,Basic Instinct,1992,Paul Verhoeven; Paul Verhoeven; Paul Verhoeven; Paul Verhoeven
 tt0104348,Glengarry Glen Ross,1992,James Foley
 tt0104797,Malcolm X,1992,Spike Lee
 tt0105236,Reservoir Dogs,1992,Quentin Tarantino
 tt0105323,Scent of a Woman,1992,Martin Brest
+tt0106677,Dazed and Confused,1993,Richard Linklater
 tt0106977,The Fugitive,1993,Andrew Davis
 tt0107048,Groundhog Day,1993,Harold Ramis
 tt0107290,Jurassic Park,1993,Steven Spielberg
@@ -92,6 +97,7 @@ tt0116282,Fargo,1996,Ethan Coen; Joel Coen
 tt0116629,Independence Day,1996,Roland Emmerich
 tt0117060,Mission: Impossible,1996,Brian De Palma
 tt0118540,4 Little Girls,1997,Spike Lee
+tt0118655,Austin Powers: International Man of Mystery,1997,Jay Roach
 tt0119174,The Game,1997,David Fincher
 tt0119217,Good Will Hunting,1997,Gus Van Sant
 tt0119567,The Lost World: Jurassic Park,1997,Steven Spielberg
@@ -115,6 +121,7 @@ tt0121765,Star Wars: Episode II - Attack of the Clones,2002,George Lucas
 tt0121766,Star Wars: Episode III - Revenge of the Sith,2005,George Lucas
 tt0122718,Small Soldiers,1998,Joe Dante
 tt0126029,Shrek,2001,Andrew Adamson; Vicky Jenson
+tt0127357,Jackie Chan's Who Am I?,1998,Benny Chan; Jackie Chan
 tt0129167,The Iron Giant,1999,Brad Bird
 tt0132477,October Sky,1999,Joe Johnston
 tt0133093,The Matrix,1999,Lana Wachowski; Lilly Wachowski
@@ -126,6 +133,7 @@ tt0139654,Training Day,2001,Antoine Fuqua
 tt0143145,The World Is Not Enough,1999,Michael Apted
 tt0144084,American Psycho,2000,Mary Harron
 tt0145487,Spider-Man,2002,Sam Raimi
+tt0145660,Austin Powers: The Spy Who Shagged Me,1999,Jay Roach
 tt0160127,Charlie's Angels,2000,McG
 tt0162222,Cast Away,2000,Robert Zemeckis
 tt0163025,Jurassic Park III,2001,Joe Johnston
@@ -150,11 +158,11 @@ tt0212720,A.I. Artificial Intelligence,2001,Steven Spielberg
 tt0217869,Unbreakable,2000,M. Night Shyamalan
 tt0218839,Best in Show,2000,Christopher Guest
 tt0227538,Spy Kids,2001,Robert Rodriguez
-tt0232500,The Fast and the Furious,2001,Mel City; Rob Cohen
+tt0232500,The Fast and the Furious,2001,Rob Cohen
 tt0234215,The Matrix Reloaded,2003,Lana Wachowski; Lilly Wachowski
 tt0240772,Ocean's Eleven,2001,Steven Soderbergh
 tt0241527,Harry Potter and the Sorcerer's Stone,2001,Chris Columbus
-tt0242653,Matrix Revolutions,2003,Lana Wachowski; Lilly Wachowski
+tt0242653,The Matrix Revolutions,2003,Lana Wachowski; Lilly Wachowski
 tt0245429,Spirited Away,2001,Hayao Miyazaki; Kirk Wise
 tt0246460,Die Another Day,2002,Lee Tamahori
 tt0246578,Donnie Darko,2001,Richard Kelly
@@ -177,8 +185,10 @@ tt0287717,Spy Kids 2: Island of Lost Dreams,2002,Robert Rodriguez
 tt0287978,Daredevil,2003,Mark Steven Johnson
 tt0290095,The Tuxedo,2002,Kevin Donovan
 tt0290334,X-Men 2,2003,Bryan Singer
+tt0295178,Austin Powers in Goldmember,2002,Jay Roach
 tt0295297,Harry Potter and the Chamber of Secrets,2002,Chris Columbus
 tt0298148,Shrek 2,2004,Andrew Adamson; Kelly Asbury
+tt0300471,Shanghai Knights,2003,David Dobkin
 tt0304141,Harry Potter and the Prisoner of Azkaban,2004,Alfonso Cuarón
 tt0316654,Spider-Man 2,2004,Sam Raimi
 tt0317219,Cars,2006,Joe Ranft; John Lasseter
@@ -195,22 +205,27 @@ tt0332379,School of Rock,2003,Richard Linklater
 tt0332452,Troy,2004,Wolfgang Petersen
 tt0338459,Spy Kids 3: Game Over,2003,Robert Rodriguez
 tt0338526,Van Helsing,2004,Stephen Sommers
+tt0338751,The Aviator,2004,Martin Scorsese
+tt0343660,50 First Dates,2004,Peter Segal
 tt0343818,"I, Robot",2004,Alex Proyas
 tt0348150,Superman Returns,2006,Bryan Singer
 tt0349205,Cheaper by the Dozen,2003,Shawn Levy
 tt0349903,Ocean's Twelve,2004,Steven Soderbergh
 tt0351283,Madagascar,2005,Eric Darnell; Tom McGrath
 tt0356910,Mr. & Mrs. Smith,2005,Doug Liman
+tt0357413,Anchorman: The Legend of Ron Burgundy,2004,Adam McKay
 tt0359013,Blade: Trinity,2004,David S. Goyer
 tt0360717,King Kong,2005,Peter Jackson
 tt0361596,Fahrenheit 9/11,2004,Michael Moore
 tt0361748,Inglourious Basterds,2009,Eli Roth; Quentin Tarantino
 tt0363771,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,Andrew Adamson
 tt0364569,Oldboy,2003,Chan-wook Park
+tt0364725,Dodgeball: A True Underdog Story,2004,Rawson Marshall Thurber
 tt0367594,Charlie and the Chocolate Factory,2005,Tim Burton
 tt0368891,National Treasure,2004,Jon Turteltaub
 tt0369610,Jurassic World,2015,Colin Trevorrow
 tt0371724,The Hitchhiker's Guide to the Galaxy,2005,Garth Jennings
+tt0371746,Iron Man,2008,Jon Favreau
 tt0372183,The Bourne Supremacy,2004,Paul Greengrass
 tt0372588,Team America: World Police,2004,Trey Parker
 tt0372784,Batman Begins,2005,Christopher Nolan
@@ -221,6 +236,7 @@ tt0378194,Kill Bill: Vol. 2,2004,Quentin Tarantino
 tt0381061,Casino Royale,2006,Martin Campbell
 tt0382932,Ratatouille,2007,Brad Bird; Jan Pinkava
 tt0383574,Pirates of the Caribbean: Dead Man's Chest,2006,Gore Verbinski
+tt0385004,House of Flying Daggers,2004,Yimou Zhang
 tt0386588,Hitch,2005,Andy Tennant
 tt0386792,Something the Lord Made,2004,Joseph Sargent
 tt0389860,Click,2006,Frank Coraci
@@ -256,6 +272,7 @@ tt0438488,Terminator Salvation,2009,McG
 tt0440963,The Bourne Ultimatum,2007,Paul Greengrass
 tt0441773,Kung Fu Panda,2008,John Stevenson; Mark Osborne
 tt0443453,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,Larry Charles
+tt0445934,Blades of Glory,2007,Josh Gordon; Will Speck
 tt0446029,Scott Pilgrim vs. the World,2010,Edgar Wright
 tt0446059,Fearless,2006,Ronny Yu
 tt0448011,Knowing,2009,Alex Proyas
@@ -290,6 +307,8 @@ tt0770828,Man of Steel,2013,Zack Snyder
 tt0780504,Drive,2011,Nicolas Winding Refn
 tt0790636,Dallas Buyers Club,2013,Jean-Marc Vallée
 tt0796366,Star Trek,2009,J.J. Abrams
+tt0800039,Forgetting Sarah Marshall,2008,Nicholas Stoller
+tt0800369,Thor,2011,Kenneth Branagh
 tt0811080,Speed Racer,2008,Lana Wachowski; Lilly Wachowski
 tt0816692,Interstellar,2014,Christopher Nolan
 tt0816711,World War Z,2013,Marc Forster
@@ -302,6 +321,7 @@ tt0865556,The Forbidden Kingdom,2008,Rob Minkoff
 tt0870111,Frost/Nixon,2008,Ron Howard
 tt0878804,The Blind Side,2009,John Lee Hancock
 tt0887912,The Hurt Locker,2008,Kathryn Bigelow
+tt0889583,Brüno,2009,Larry Charles
 tt0892769,How to Train Your Dragon,2010,Chris Sanders; Dean DeBlois
 tt0892782,Monsters vs. Aliens,2009,Conrad Vernon; Rob Letterman
 tt0903624,The Hobbit: An Unexpected Journey,2012,Peter Jackson
@@ -330,6 +350,7 @@ tt1049413,Up,2009,Bob Peterson; Pete Docter
 tt1053424,Repo Men,2010,Miguel Sapochnik
 tt1055369,Transformers: Revenge of the Fallen,2009,Michael Bay
 tt1059786,Eagle Eye,2008,D.J. Caruso
+tt1068680,Yes Man,2008,Peyton Reed
 tt1074638,Skyfall,2012,Sam Mendes
 tt1104001,TRON: Legacy,2010,Joseph Kosinski
 tt1119646,The Hangover,2009,Todd Phillips
@@ -348,6 +369,7 @@ tt1212450,Lawless,2012,John Hillcoat
 tt1217209,Brave,2012,Brenda Chapman; Mark Andrews
 tt1220719,Ip Man,2008,Wilson Yip
 tt1226229,Get Him to the Greek,2010,Nicholas Stoller
+tt1228705,Iron Man 2,2010,Jon Favreau
 tt1229238,Mission: Impossible - Ghost Protocol,2011,Brad Bird
 tt1232829,21 Jump Street,2012,Christopher Miller; Phil Lord
 tt1234721,RoboCop,2014,José Padilha
@@ -358,8 +380,9 @@ tt1258972,The Man with the Iron Fists,2012,RZA
 tt1276104,Looper,2012,Rian Johnson
 tt1284575,Bad Teacher,2011,Jake Kasdan
 tt1285016,The Social Network,2010,David Fincher
-tt1289401,Ghostbusters,2016,Paul Feig
+tt1289401,Ghostbusters: Answer the Call,2016,Paul Feig
 tt1291584,Warrior,2011,Gavin O'Connor
+tt1300854,Iron Man 3,2013,Shane Black
 tt1302011,Kung Fu Panda 2,2011,Jennifer Yuh Nelson
 tt1306980,50/50,2011,Jonathan Levine
 tt1318514,Rise of the Planet of the Apes,2011,Rupert Wyatt
@@ -392,6 +415,7 @@ tt1535108,Elysium,2013,Neill Blomkamp
 tt1568911,War Horse,2011,Steven Spielberg
 tt1583421,G.I. Joe: Retaliation,2013,Jon M. Chu
 tt1596343,Fast Five,2011,Justin Lin
+tt1596363,The Big Short,2015,Adam McKay
 tt1598778,Contagion,2011,Steven Soderbergh
 tt1605783,Midnight in Paris,2011,Woody Allen
 tt1615147,Margin Call,2011,J.C. Chandor
@@ -408,6 +432,7 @@ tt1670345,Now You See Me,2013,Louis Leterrier
 tt1690953,Despicable Me 2,2013,Chris Renaud; Pierre Coffin
 tt1706593,Chronicle,2012,Josh Trank
 tt1706620,Snowpiercer,2013,Joon-ho Bong
+tt1723121,We're the Millers,2013,Rawson Marshall Thurber
 tt1764183,Arbitrage,2012,Nicholas Jarecki
 tt1764651,The Expendables 2,2012,Simon West
 tt1772341,Wreck-It Ralph,2012,Rich Moore
@@ -426,6 +451,7 @@ tt1905041,Fast & Furious 6,2013,Justin Lin
 tt1951264,The Hunger Games: Catching Fire,2013,Francis Lawrence
 tt1951265,The Hunger Games: Mockingjay - Part 1,2014,Francis Lawrence
 tt1979320,Rush,2013,Ron Howard
+tt1979388,The Good Dinosaur,2015,Peter Sohn
 tt1981115,Thor: The Dark World,2013,Alan Taylor
 tt2004420,Neighbors,2014,Nicholas Stoller
 tt2015381,Guardians of the Galaxy,2014,James Gunn
@@ -449,10 +475,11 @@ tt2310332,The Hobbit: The Battle of the Five Armies,2014,Peter Jackson
 tt2334879,White House Down,2013,Roland Emmerich
 tt2357291,Rio 2,2014,Carlos Saldanha
 tt2379713,Spectre,2015,Sam Mendes
+tt2380307,Coco,2017,Adrian Molina; Lee Unkrich
 tt2381249,Mission: Impossible - Rogue Nation,2015,Christopher McQuarrie
 tt2395427,Avengers: Age of Ultron,2015,Joss Whedon
 tt2406566,Atomic Blonde,2017,David Leitch
-tt2488496,Star Wars: Episode VII - The Force Awakens,2015,J.J. Abrams
+tt2488496,Star Wars: The Force Awakens,2015,J.J. Abrams
 tt2527336,Star Wars: The Last Jedi,2017,Rian Johnson
 tt2543164,Arrival,2016,Denis Villeneuve
 tt2557478,Pacific Rim: Uprising,2018,Steven S. DeKnight
@@ -460,6 +487,7 @@ tt2562232,Birdman or (The Unexpected Virtue of Ignorance),2014,Alejandro G. Iñ�
 tt2582802,Whiplash,2014,Damien Chazelle
 tt2660888,Star Trek: Beyond,2016,Justin Lin
 tt2709768,The Secret Life of Pets,2016,Chris Renaud; Yarrow Cheney
+tt2765340,So Young,2013,Wei Zhao
 tt2771200,Beauty and the Beast,2017,Bill Condon
 tt2802144,Kingsman: The Secret Service,2014,Matthew Vaughn
 tt2820852,Furious 7,2015,James Wan
@@ -477,6 +505,7 @@ tt3460252,The Hateful Eight,2015,Quentin Tarantino
 tt3498820,Captain America: Civil War,2016,Anthony Russo; Joe Russo
 tt3501632,Thor: Ragnarok,2017,Taika Waititi
 tt3521164,Moana,2016,John Musker; Ron Clements
+tt3606756,Incredibles 2,2018,Brad Bird
 tt3659388,The Martian,2015,Ridley Scott
 tt3731562,Kong: Skull Island,2017,Jordan Vogt-Roberts
 tt3748528,Rogue One: A Star Wars Story,2016,Gareth Edwards
@@ -487,11 +516,16 @@ tt3878542,Justice League: Throne of Atlantis (Vide,2015,Ethan Spaulding
 tt3890160,Baby Driver,2017,Edgar Wright
 tt3896198,Guardians of the Galaxy Vol. 2,2017,James Gunn
 tt4094724,The Purge: Election Year,2016,James DeMonaco
+tt4154756,Avengers: Infinity War,2018,Anthony Russo; Joe Russo
 tt4196776,Jason Bourne,2016,Paul Greengrass
 tt4302938,Kubo and the Two Strings,2016,Travis Knight
 tt4438848,Neighbors 2: Sorority Rising,2016,Nicholas Stoller
 tt4630562,The Fate of the Furious,2017,F. Gary Gray
 tt4649466,Kingsman: The Golden Circle,2017,Matthew Vaughn
+tt4881806,Jurassic World: Fallen Kingdom,2018,J.A. Bayona
 tt5013056,Dunkirk,2017,Christopher Nolan
+tt5095030,Ant-Man and the Wasp,2018,Peyton Reed
+tt5104604,Isle of Dogs,2018,Wes Anderson
 tt5996252,Trader,1987,Michael Glyn
 tt6540078,The Child in Time,2017,Julian Farino
+tt7431894,Never Say Die,2017,Chiyu Zhang; Yang Song
